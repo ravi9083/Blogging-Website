@@ -1,2 +1,2 @@
-# Blogging-Website
-I develop this Website using HTML,CSS, JAVA SCRIPT
+# Blooger_Website
+This is the complete blooger website create using html and css
